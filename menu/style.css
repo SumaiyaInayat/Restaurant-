@@ -1,0 +1,121 @@
+.nav-link{
+    color:white !important;
+    font-weight: 700;
+    font-size: 22px;
+    margin-right: 30px;
+}
+.nav-link:hover{
+    background-color:#00897B;
+    border-radius: 20px;
+}
+.dropdown-menu{
+    
+    background-color:#80CBC4 !important ;
+}
+.dropdown-item{
+    color: white !important;
+    font-size: 20px;
+}
+.dropdown-item:hover{
+    background-color:#00897B !important; 
+    font-weight: 700;
+    font-size: 18px;
+}
+.image{
+    width: 170px;
+    height:60px;
+    margin-left: 30px;
+}
+.heading>h1 {
+    text-align: center;
+    font-weight: 800;
+    font-size: 100px;
+    color:#004D40 ;
+    text-shadow:2px 2px 6px rgb(78, 75, 75);
+    margin-bottom: 50px;
+    margin-top: 50px;
+    
+}
+.main{
+    margin-top: 60px;
+
+}
+.one:hover{
+    background-color:  #004D40;
+    color:#80CBC4 ;
+}
+.one{
+    background-color:#80CBC4  ;
+    margin-bottom: 200px;
+    text-decoration: none;
+    font-size: 30px;
+    font-weight: 800;
+    color: #004D40;
+    box-shadow: 2px 2px 5px grey;
+    border-radius: 10px;
+    padding: 4px;
+   
+}   
+
+.karahi{
+    margin-top: 20px;
+}
+.card-img-top{
+    height: 200px;
+}
+.two{
+    text-align: center;
+    font-weight: 800;
+    font-size: 100px;
+    color:#004D40 ;
+    text-shadow:2px 2px 6px rgb(78, 75, 75);
+    margin-bottom: 50px;
+    margin-top: 50px;
+}
+.three{
+    font-weight:800;
+    font-size: 80px;
+    color:#004D40 ;
+    text-shadow:2px 2px 6px rgb(78, 75, 75);
+    margin-bottom: 50px;
+    margin-top: 50px;
+    
+}
+.three:hover{
+    color:#80CBC4;
+    background-color:#004D40 ;
+    border-radius: 50px;
+    padding: 4px;
+}
+.card{
+    margin-top: 15px !important;
+}
+.card-img-top{
+    height: 200px;
+}
+.card-title{
+    font-weight: 700;
+}
+.btn-primary{
+    width: 100%;
+    background-color: #00897B !important;
+    font-weight: 700 !important;  
+}
+.btn-primary:hover{
+    color:#004D40 !important;
+    background-color:#00BFA5 !important ;
+}
+.fa-copyright{
+    font-size: 20px !important ;
+}
+.footer,.fa-whatsapp,.fa-envelope-o{
+    font-size: 20px;
+}
+.footer{
+    margin-top: 30px;
+    background-color:rgb(12, 88, 76);
+    color: white;
+}
+.footer>a{
+    font-weight: 700 !important;
+}

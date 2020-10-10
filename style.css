@@ -1,0 +1,119 @@
+.nav-link{
+    color:white !important;
+    font-weight: 700;
+    font-size: 22px;
+    margin-right: 30px;
+}
+.nav-link:hover{
+    background-color:#00897B;
+    border-radius: 20px;
+}
+.dropdown-menu{
+    
+    background-color:#80CBC4 !important ;
+}
+.dropdown-item{
+    color: white !important;
+    font-size: 20px;
+}
+.dropdown-item:hover{
+    background-color:#00897B !important; 
+    font-weight: 700;
+    font-size: 18px;
+}
+.image{
+    width: 170px;
+    height:60px;
+    margin-left: 30px;
+}
+.fa-user-circle-o{
+    font-size: 30px  !important;
+    margin-bottom: 18px;
+    color:white;
+
+}
+.d-block {
+    height: 500px;
+ 
+}
+.maincard{
+    
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    
+  
+}
+.card1 ,.card2, .card3 {
+   margin: auto;
+   margin-top: 40px;
+    display: flex;
+    justify-content:center;
+    align-items: center;
+    width: 300px;
+    height: 90px;
+    background-color: white;
+    box-shadow: 2px 2px 10px black;
+  
+}
+.card1:hover,.card2:hover,.card3:hover{
+    background-color:#00897B ;
+    color: white;
+    border-radius: 5px;
+
+}
+.fa-cutlery,.fa-headphones,.fa-thumbs-up{
+    font-size: 50px !important;
+    margin-right: 15px;
+}
+.heading>h1 {
+    text-align: center;
+    font-weight: 700;
+    color:#004D40 ;
+    text-shadow:2px 2px 5px rgb(53, 50, 50);
+    margin-bottom: 50px;
+    margin-top: 50px;
+}
+.card-img-top{
+    height: 200px;
+}
+.card{
+    margin-top: 15px !important;
+}
+
+.btn-primary{
+    width: 100%;
+    background-color: #00897B !important;
+    font-weight: 700 !important;  
+}
+.btn-primary:hover{
+    color:#004D40 !important;
+    background-color:#00BFA5 !important ;
+}
+
+.card-title{
+    font-weight: 700;
+}
+
+.card-text{
+    font-weight: bold !important;
+}
+.fa-copyright{
+    font-size: 20px !important ;
+}
+.footer,.fa-whatsapp,.fa-envelope-o{
+    font-size: 20px;
+}
+.footer{
+    margin-top: 30px;
+    background-color:rgb(12, 88, 76);
+    color: white;
+}
+.footer>a{
+    font-weight: 700 !important;
+}
+@media screen and (max-width:500px){
+    .card1,.card2,.card3{
+        width: 100%;
+    }
